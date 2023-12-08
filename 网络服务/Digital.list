@@ -23,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,fxhapp.xyz
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,yshyqxx.com
-  - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,saasexch.co
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
