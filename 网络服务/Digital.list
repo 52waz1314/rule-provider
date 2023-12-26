@@ -107,6 +107,7 @@ payload:
   - DOMAIN,megacheck.vip
   - DOMAIN-SUFFIX,ada.support
   - DOMAIN-SUFFIX,bitkeep.buzz
+  - DOMAIN-SUFFIX,bitkeep.com
 ## >> Bitfinex Start
   - DOMAIN-SUFFIX,bitfinex.com
   - DOMAIN-SUFFIX,api.bitfinex.com
