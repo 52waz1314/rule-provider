@@ -97,7 +97,16 @@ payload:
   - DOMAIN-SUFFIX,kucoin.zendesk.com
   - DOMAIN-SUFFIX,sentry.kucoin.com
   - DOMAIN-SUFFIX,news.kucoin.com
-  - DOMAIN-SUFFIX,kucoinn.tumblr.com  
+  - DOMAIN-SUFFIX,kucoinn.tumblr.com 
+## >> Bitget Start
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitgetimg.com
+  - DOMAIN-SUFFIX,noxiaohao.com
+  - DOMAIN,megacheck.net
+  - DOMAIN-SUFFIX,megacheck.vip
+  - DOMAIN,megacheck.vip
+  - DOMAIN-SUFFIX,ada.support
+  - DOMAIN-SUFFIX,bitkeep.buzz
 ## >> Bitfinex Start
   - DOMAIN-SUFFIX,bitfinex.com
   - DOMAIN-SUFFIX,api.bitfinex.com
