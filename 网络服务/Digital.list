@@ -2,6 +2,8 @@
 
 payload:
 ## >> 区块链浏览器
+  - DOMAIN,bscscan.com
+  - DOMAIN-SUFFIX,bscscan.com
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,etherscan.com
   - DOMAIN-SUFFIX,ethplorer.io
@@ -27,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,yshyqxx.com
   - DOMAIN-SUFFIX,saasexch.co
+
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitcointalk.org 
