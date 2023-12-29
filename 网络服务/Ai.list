@@ -40,8 +40,6 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,saasexch.com
-  - DOMAIN-SUFFIX,saasexch.io
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,openaiapi
   - DOMAIN-KEYWORD,openaipublic
