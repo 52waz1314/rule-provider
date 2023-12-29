@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,yshyqxx.com
   - DOMAIN-SUFFIX,saasexch.co
+  - DOMAIN-SUFFIX,saasexch.cc
 
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
