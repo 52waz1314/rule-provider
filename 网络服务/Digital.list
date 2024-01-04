@@ -28,6 +28,9 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,yshyqxx.com
+  - DOMAIN-SUFFIX,hbwrapper.com
+  - DOMAIN-SUFFIX,hypelab.com
+  - DOMAIN-SUFFIX,ctraffic.io
 
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
