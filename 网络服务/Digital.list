@@ -37,6 +37,8 @@ payload:
   - DOMAIN-SUFFIX,bitcointalk.org 
 ## >> pexpay
   - DOMAIN-SUFFIX,pexpay.com
+## >> BTC
+  - DOMAIN-SUFFIX,unisat.io
 ## >> Binance Start
   - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binancecnt.com
