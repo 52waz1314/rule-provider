@@ -1,4 +1,12 @@
 ### 2021-02-22 00:50
 payload: 
+
+## >> paypal
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypalobjects.com
+
+## >> paypal
+  - DOMAIN-SUFFIX,wise.com
+
+## >> paypal
+  - DOMAIN-SUFFIX,dupay.one
