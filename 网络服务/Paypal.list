@@ -5,8 +5,9 @@ payload:
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypalobjects.com
 
-## >> paypal
+## >> wise
   - DOMAIN-SUFFIX,wise.com
 
-## >> paypal
+## >> dupay
   - DOMAIN-SUFFIX,dupay.one
+  - DOMAIN-SUFFIX,hexagramglobal.com
