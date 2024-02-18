@@ -2,6 +2,11 @@
 ### >>> 国内流媒体服务
 
 payload:
+## >> anime
+  - DOMAIN-SUFFIX,anime1.me 
+  - DOMAIN-SUFFIX,anicdn.com
+  - DOMAIN-SUFFIX,lolicdn.net
+  - DOMAIN-SUFFIX,v.network
 ## >> IPTV
   - DOMAIN-SUFFIX,cfss.cc
   - DOMAIN,cfss.cc
