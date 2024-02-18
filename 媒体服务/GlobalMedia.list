@@ -1,7 +1,14 @@
 ### 2023-01-01
 ### >>> 其他国际流媒体服务
 
-payload:  
+payload:
+## >> anime
+  - DOMAIN-SUFFIX,anime1.me 
+  - DOMAIN-SUFFIX,anicdn.com
+  - DOMAIN-SUFFIX,lolicdn.net
+  - DOMAIN-SUFFIX,v.network
+  - DOMAIN-SUFFIX,bitapi.vip
+
 ## >> copymanga 
   - DOMAIN-SUFFIX,copymanga.site
   - DOMAIN-SUFFIX,mangafuna.xyz
