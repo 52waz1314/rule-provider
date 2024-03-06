@@ -2,6 +2,10 @@
 ### >>> 黑名单
 
 payload:
+## >> Binance china
+  - IP-CIDR,47.75.98.0/24,no-resolve
+  - IP-CIDR,47.57.186.0/24,no-resolve
+  - IP-CIDR,47.57.185.0/24,no-resolve
 ## >> investing
   - DOMAIN-SUFFIX,investing.com
   - DOMAIN-SUFFIX,forexpros.com
