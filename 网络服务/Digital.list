@@ -142,6 +142,7 @@ payload:
   - DOMAIN,www.okex.com
   - DOMAIN,www.okx.com
   - DOMAIN,www.okx-httpdns.com
+  - DOMAIN-SUFFIX,okx-doh.com
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.cab
