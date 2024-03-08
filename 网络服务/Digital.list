@@ -190,6 +190,10 @@ payload:
   - DOMAIN-SUFFIX,pinata.cloud
 ## >> dextools
   - DOMAIN-SUFFIX,dextools.io
+  - DOMAIN,walletlink.org
+  - DOMAIN-SUFFIX,walletlink.org
+  - DOMAIN-SUFFIX,walletconnect.com
+  - DOMAIN-SUFFIX,packcard.com
 ## >> feixiaohao
   - DOMAIN-KEYWORD,feixiaohao
   - DOMAIN-SUFFIX,feixiaohao.cc 
