@@ -219,6 +219,15 @@ payload:
   - DOMAIN-SUFFIX,gateio.fm
   - DOMAIN-SUFFIX,gateio.live
   - DOMAIN-SUFFIX,gaterelay.com
+## >> hashkey
+  - DOMAIN,ipqualityscore.com
+  - DOMAIN-SUFFIX,ipqualityscore.com
+  - DOMAIN,hashkey.com
+  - DOMAIN-SUFFIX,hashkey.com
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,nftgo.io
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,nftgo.io
 ## >> nftgo
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,nftgo.io
