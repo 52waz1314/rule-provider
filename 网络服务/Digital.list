@@ -224,10 +224,6 @@ payload:
   - DOMAIN-SUFFIX,ipqualityscore.com
   - DOMAIN,hashkey.com
   - DOMAIN-SUFFIX,hashkey.com
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,nftgo.io
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,nftgo.io
 ## >> nftgo
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,nftgo.io
