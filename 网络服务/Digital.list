@@ -225,6 +225,10 @@ payload:
   - DOMAIN,hashkey.com
   - DOMAIN-SUFFIX,hashkey.com
   - DOMAIN-SUFFIX,zendesk.com
+## >> hashkey
+  - DOMAIN,kraken.com
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,sardine.ai
 ## >> nftgo
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,nftgo.io
