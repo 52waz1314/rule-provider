@@ -3,6 +3,7 @@
 
 payload:
 ## >> bahamut
+  - DOMAIN,bahamut.akamaized.net
   - DOMAIN-SUFFIX,bahamut.com
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN,bahamut.akamaized.net  
