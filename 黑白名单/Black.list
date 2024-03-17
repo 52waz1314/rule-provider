@@ -2,14 +2,10 @@
 ### >>> 黑名单
 
 payload:
-## >> Binance china
-
 ## >> investing
   - DOMAIN-SUFFIX,investing.com
   - DOMAIN-SUFFIX,forexpros.com
   - DOMAIN-SUFFIX,iforexpros.com
-## >> bahamut
-  - DOMAIN,imasdk.googleapis.com
 ## >> emotn
   - DOMAIN-SUFFIX,keeflys.com
 ## >> 普拉斯影业
