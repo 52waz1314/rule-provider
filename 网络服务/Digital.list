@@ -194,6 +194,9 @@ payload:
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,packcard.com
+  - DOMAIN-SUFFIX,mevblocker.io
+  - DOMAIN-SUFFIX,web3modal.org
+  - DOMAIN-SUFFIX,coinzilla.com
 ## >> feixiaohao
   - DOMAIN-KEYWORD,feixiaohao
   - DOMAIN-SUFFIX,feixiaohao.cc 
