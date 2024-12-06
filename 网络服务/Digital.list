@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,unisat.io
 ## >> Binance Start
   - DOMAIN-SUFFIX,binance.info
+  - DOMAIN,binance.info
   - DOMAIN-SUFFIX,binancecnt.com
   - DOMAIN-SUFFIX,binancezh.top
   - DOMAIN-SUFFIX,bnappzh.co
