@@ -1,10 +1,5 @@
 ! Title: 自添加广告域名
 
-! manhuagui
-3a4b5c.com
-349upload.3a4b5c.com
-h5.3a4b5c.com
-
 ! ohmanhua
 exdynsrv.com  
 f93dad8683e2c7c.com
