@@ -1,89 +1,47 @@
-### 2021-06-14 19:00
 ### >>> 白名单
 
 payload:
-## >> Binance china
-  - DOMAIN-SUFFIX,binancezh.info
-  - IP-CIDR,47.75.98.0/24,no-resolve
-  - IP-CIDR,47.57.186.0/24,no-resolve
-  - IP-CIDR,47.57.185.0/24,no-resolve
-## >> rule cloud
+# > rule cloud
   - DOMAIN,077582580.xyz
   - DOMAIN-SUFFIX,077582580.xyz
   - IP-CIDR,47.242.31.246/24,no-resolve
   - IP-CIDR,47.243.176.91/24,no-resolve
-## >> Biu
-  - DOMAIN-SUFFIX,johnita.vip
-## >> J
-  - DOMAIN-SUFFIX,o2.cx
-  - DOMAIN-SUFFIX,o8.cx
-  - DOMAIN-SUFFIX,7n.pw
-  - DOMAIN-SUFFIX,hxdzpos.com
-  - DOMAIN-SUFFIX,jv6.cc
-  - DOMAIN-SUFFIX,gyfyy.com
-  - DOMAIN-SUFFIX,gdbkyz.com
-  - DOMAIN-SUFFIX,kangruanwx1.com
-  - IP-CIDR,129.226.175.0/23,no-resolve
-  - IP-CIDR,23.237.190.0/23,no-resolve
-## >> chinadsl
-  - DOMAIN-SUFFIX,chinadsl.net
-  - DOMAIN-SUFFIX,369110.xyz
-## >> Elsevier 
-  - DOMAIN-SUFFIX,scopus.com
-## >> hpool 
-  - DOMAIN-SUFFIX,hpool.com
-## >> ikea
-  - DOMAIN-SUFFIX,ikea.cn
-  - DOMAIN-SUFFIX,ikea.com
-## >> lastpass  
-  - DOMAIN-SUFFIX,lastpass.com
-## >> SCI 综合
-  - DOMAIN-SUFFIX,researchgate.net
-  - DOMAIN-SUFFIX,springer.com
-  - DOMAIN-SUFFIX,blackwell-synergy.com
-  - DOMAIN-SUFFIX,sciencemag.org
-  - DOMAIN-SUFFIX,jstor.org
-  - DOMAIN-SUFFIX,cabdirect.org
-  - DOMAIN-SUFFIX,ieee.org
-  - DOMAIN-SUFFIX,nature.com
-  - DOMAIN-SUFFIX,sciencemag.org
-  - DOMAIN-SUFFIX,osapublishing.org 
-## >> Willey 
-  - DOMAIN-SUFFIX,wiley.com
-## >> 店长之家
-  - DOMAIN-SUFFIX,dsw6.com
-  - DOMAIN-SUFFIX,kaidian.tv
-## >> 规则云
-  - DOMAIN-SUFFIX,yly.eatuo.com
-  - DOMAIN-SUFFIX,yly-studio.in  
-## >> 奈非影视 
-  - DOMAIN-SUFFIX,nfmovies.com
-  - DOMAIN-SUFFIX,naifei.shop
-## >> 七哥博客
-  - DOMAIN-SUFFIX,5ihome.net
-## >> 智通财经
-  - DOMAIN-SUFFIX,zhitongcaijing.com
-  - DOMAIN-SUFFIX,roadshowing.com 
-## >> 中国知网
-  - DOMAIN-SUFFIX,cnki.net 
-## >> 区块天眼
-  - DOMAIN-SUFFIX,fx994.com
-  - DOMAIN,app.coolbit.com
-  - DOMAIN,h.m.mpl.dutils.com
-## >> 极氪
-  - DOMAIN,www.zeekrlife.com
-  - DOMAIN-SUFFIX,zeekrlife.com 
-## >> hangame
-  - DOMAIN-SUFFIX,hangame.com
-  - DOMAIN-SUFFIX,toast.com
-  - DOMAIN-SUFFIX,toastoven.net
-## >> infinitynewtab 
-  - DOMAIN-SUFFIX,infinitynewtab.com 
-## >> other
-  - DOMAIN-SUFFIX,logitech.io
-  - DOMAIN-SUFFIX,bdcloudapi.com
-  - DOMAIN-SUFFIX,pkgs.org
-  - IP-CIDR,185.188.32.0/24,no-resolve
-  - IP-CIDR,185.188.33.0/24,no-resolve
-  - IP-CIDR,185.188.34.0/24,no-resolve
-  - IP-CIDR,185.188.35.0/24,no-resolve
+
+# > Binance china
+  - DOMAIN-SUFFIX,binancezh.info
+
+# > Dler Cloud
+  - DOMAIN-SUFFIX,dler.cloud
+  - DOMAIN-SUFFIX,suo.yt
+  - DOMAIN-SUFFIX,emojixd.com
+
+# > baidu
+  - DOMAIN,pan.baidu.com
+
+# > QQ Music
+  - DOMAIN-SUFFIX,tc.qq.com
+  - DOMAIN,isure6-stream-qqmusic.a.bdycdn.cn
+  - DOMAIN,music.dsplego-dk.sched.dcloudstc.com
+  - DOMAIN-SUFFIX,cloud.tencent.com
+  - DOMAIN-SUFFIX,tencentmusic.com
+  - DOMAIN-SUFFIX,qqmusic.qq.com
+  - DOMAIN-SUFFIX,music.qq.com
+  - DOMAIN-SUFFIX,y.qq.com
+
+# > futu
+  - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futunn.com
+
+# > zaobao
+  - DOMAIN-SUFFIX,zaobao.com
+
+# > nxonearth
+  - DOMAIN-SUFFIX,nxonearth.com
+
+# > colamanga
+  - DOMAIN-SUFFIX,tencentapp.cn
+  - DOMAIN-SUFFIX,468123.xyz
+  - DOMAIN-SUFFIX,811520.xyz
+  - DOMAIN-SUFFIX,877774.xyz
+  - DOMAIN-SUFFIX,090227.xyz
+  - DOMAIN-SUFFIX,182682.xyz
