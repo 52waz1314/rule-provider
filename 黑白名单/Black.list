@@ -2,10 +2,10 @@
 
 payload:
 # > 推送服务
- - HOST,identity.apple.com,apns
- - HOST-SUFFIX,akadns.net,apns
- - HOST-SUFFIX,push.apple.com,apns
- - HOST-KEYWORD,apple.com.edgekey.net,apns
+ - DOMAIN,identity.apple.com,apns
+ - DOMAIN-SUFFIX,akadns.net,apns
+ - DOMAIN-SUFFIX,push.apple.com,apns
+ - DOMAIN-KEYWORD,apple.com.edgekey.net,apns
  - IP-CIDR,17.188.128.0/18,apns
  - IP-CIDR,17.188.20.0/23,apns
  - IP-CIDR,17.249.0.0/16,apns
