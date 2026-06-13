@@ -6,14 +6,16 @@ payload:
   - DOMAIN-SUFFIX,077582580.xyz
   - IP-CIDR,47.242.31.246/24,no-resolve
   - IP-CIDR,47.243.176.91/24,no-resolve
-
-# > Binance china
-  - DOMAIN-SUFFIX,binancezh.info
+  - DOMAIN-SUFFIX,sntp.me
+  - DOMAIN-SUFFIX,zenithgrid.co
 
 # > Dler Cloud
   - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,emojixd.com
+
+# > Binance china
+  - DOMAIN-SUFFIX,binancezh.info
 
 # > baidu
   - DOMAIN,pan.baidu.com
@@ -45,3 +47,5 @@ payload:
   - DOMAIN-SUFFIX,877774.xyz
   - DOMAIN-SUFFIX,090227.xyz
   - DOMAIN-SUFFIX,182682.xyz
+# > Tailscale
+  - IP-CIDR,100.64.0.0/10,no-resolve
