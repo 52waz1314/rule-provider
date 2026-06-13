@@ -9,9 +9,6 @@ payload:
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,ss-local
 
-  # > PlayStation
-  - DOMAIN-SUFFIX,dl.playstation.net
-
   # > Tesla
   - DOMAIN,tesla-cdn.thron.cn
   - DOMAIN,tesla-cdn.thron.com
@@ -38,7 +35,6 @@ payload:
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,fdm.exe
-  # - PROCESS-NAME,IDMan.exe
   - PROCESS-NAME,NetTransport.exe
   - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,Thunder.exe
@@ -90,7 +86,6 @@ payload:
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,smtp
-  # - URL-REGEX,(Subject|HELO|SMTP)
 
   # > UBI
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
