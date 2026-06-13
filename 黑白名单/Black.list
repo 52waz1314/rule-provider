@@ -1,5 +1,3 @@
-### >>> 黑名单
-
 payload:
 # > 推送服务
  - DOMAIN,identity.apple.com,apns
